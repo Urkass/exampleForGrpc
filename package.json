@@ -1,0 +1,17 @@
+{
+  "name": "examplesForGRPC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.7.2",
+    "grpc": "^1.23.2",
+    "typescript": "^3.5.3"
+  }
+}
